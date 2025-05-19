@@ -1,3 +1,5 @@
+// Sistema back-end JS para realizar cadastros de usuários
+
 const express = require('express');
 const app = express();
 const PORT = 3000;
